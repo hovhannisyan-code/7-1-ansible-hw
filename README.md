@@ -15,7 +15,7 @@
 3. Создайте файл inventory с созданными вами ВМ.
 4. Проверьте доступность хостов с помощью модуля ping.
 
-
+![ping](https://github.com/hovhannisyan-code/7-1-ansible-hw/blob/master/img/screenshot_0.png)
 
 [Inventory](https://github.com/hovhannisyan-code/7-1-ansible-hw/blob/master/hosts)
 
