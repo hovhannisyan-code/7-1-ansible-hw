@@ -1,0 +1,7 @@
+[all]
+net1 ansible_host=192.168.1.51 ansible_user=vagrant ansible_ssh_private_key_file=~/.vagrant.d/insecure_private_key
+net2 ansible_host=192.168.1.115 ansible_user=vagrant ansible_ssh_private_key_file=~/.vagrant.d/insecure_private_key
+
+[net_group]
+net1
+net2
